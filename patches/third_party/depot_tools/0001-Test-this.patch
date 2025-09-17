@@ -1,0 +1,26 @@
+From e79be353685d21d1db3ee5fe0b0ba1f1d315ef4d Mon Sep 17 00:00:00 2001
+From: Kaido Kert <kaidokert@gmail.com>
+Date: Wed, 17 Sep 2025 00:12:23 -0700
+Subject: [PATCH] Test this
+
+---
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/README.md b/README.md
+index e8e87570..e1976630 100644
+--- a/README.md
++++ b/README.md
+@@ -3,6 +3,9 @@
+ Tools for working with Chromium development. It requires python 3.8.
+ 
+ 
++TEST
++
++
+ ## Tools
+ 
+ The most important tools are:
+-- 
+2.39.5 (Apple Git-154)
+
